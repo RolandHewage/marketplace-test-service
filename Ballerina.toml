@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.6.0"
+  name = "my_marketplace_test_api"
+  org = "rolandhewage"
+  version = "0.1.0"
+
